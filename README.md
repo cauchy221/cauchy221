@@ -32,11 +32,11 @@ I love music and I'm a 100% cat person.:cat2:
 <!--START_SECTION:waka-->
 
 ```text
-Python       22 hrs 56 mins  █████████████████▓░░░░░░░   71.04 %
-Other        4 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-Markdown     2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-JSON         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Bash         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Python       19 hrs 46 mins  █████████████████▒░░░░░░░   68.70 %
+Other        4 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+Markdown     1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+BibTeX       56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+JSON         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
