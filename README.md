@@ -31,7 +31,7 @@ I love music and I'm a 100% cat person.:cat2:
 ### WakaTime :dart:
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Python     16 hrs 55 mins  ████████████████████████▓   98.47 %
 Text       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 Other      6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
