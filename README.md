@@ -1,7 +1,7 @@
 # Hi there :wave:
 
 ### About me :blush:
-I'm a senior cs student in BUPT. I'm currently focusing on data science, deep learning and NLP. I'm also interested in MERN full stack developing and quantitive research. This year I'm trying to gain more experience in Kaggle.:raising_hand:
+I'm a senior cs student in BUPT. I'm currently focusing on data science, deep learning and NLP. I'm also interested in full stack developing. This year I'm trying to gain more experience in Kaggle.:raising_hand:
 
 I love music and I'm a 100% cat person.:cat2:
 
