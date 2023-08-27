@@ -34,9 +34,11 @@ I love music and I'm a 100% cat person.:cat2:
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly   3 hrs 23 mins   ███████████████▒░░░░░░░░░   61.52 %
-Prolog     1 hr 33 mins    ███████░░░░░░░░░░░░░░░░░░   28.34 %
-Python     33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Assembly   3 hrs 24 mins   ███████████████▓░░░░░░░░░   62.27 %
+Prolog     1 hr 33 mins    ███████░░░░░░░░░░░░░░░░░░   28.47 %
+Python     29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+BibTeX     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
