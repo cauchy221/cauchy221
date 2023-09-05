@@ -34,8 +34,7 @@ I love music and I'm a 100% cat person.:cat2:
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly   1 hr 10 mins    ███████████████████████▓░   94.95 %
-Prolog     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
