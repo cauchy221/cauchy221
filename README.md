@@ -34,11 +34,11 @@ I love music and I'm a 100% cat person.:cat2:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     18 hrs 49 mins  ████████████████████████░   95.45 %
-Assembly   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Ezhil      20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-CSV        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Prolog     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Python           18 hrs 50 mins  █████████████████████▒░░░   85.68 %
+ActionScript 3   1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+TSQL             52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Assembly         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Ezhil            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
