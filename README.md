@@ -34,9 +34,11 @@ I love music and I'm a 100% cat person.:cat2:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     4 hrs 59 mins   █████████████████████████   99.64 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python       6 hrs 30 mins   ███████████████████████░░   92.16 %
+YAML         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+SSH Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
