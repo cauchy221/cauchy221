@@ -34,8 +34,7 @@ I love music and I'm a 100% cat person. :cat2:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     3 hrs 54 mins   █████████████████████████   99.81 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python   3 hrs 36 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
