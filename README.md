@@ -34,11 +34,11 @@ I love music and I'm a 100% cat person. :cat2:
 <!--START_SECTION:waka-->
 
 ```txt
-Python            6 hrs 4 mins    █████████████░░░░░░░░░░░░   51.64 %
-Docker            2 hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
-YAML              1 hr 53 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-SSH Config        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Java Properties   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Python            6 hrs 4 mins    ██████████░░░░░░░░░░░░░░░   39.71 %
+YAML              4 hrs 11 mins   ███████░░░░░░░░░░░░░░░░░░   27.42 %
+Docker            2 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
+Terraform         1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+SSH Config        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
