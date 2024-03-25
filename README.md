@@ -34,11 +34,11 @@ I love music and I'm a 100% cat person. :cat2:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         4 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   23.45 %
-Scala        4 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
-Python       3 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
-JSON         2 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-YAML         1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+Scala        6 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   33.89 %
+Rust         4 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
+Python       3 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
+YAML         1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+JSON         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->
