@@ -26,15 +26,3 @@ I love music and I'm a 100% cat person. :cat2:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  alt="html" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="css" width="40" height="40"/>      
 </p>
-
-### My GitHub history :chart_with_upwards_trend:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauchy221&show_icons=true&theme=dark&icon_color=67b21f)](https://github.com/anuraghazra/github-readme-stats)
-
-### WakaTime :dart:
-<!--START_SECTION:waka-->
-
-```txt
-SSH Config   0 secs          █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
