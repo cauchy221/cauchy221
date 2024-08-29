@@ -1,11 +1,7 @@
 # Hi there :wave:
 
 ### About me :blush:
-I'm a master student in MCDS (computational data science) program at Carnegie Mellon University. I did my undergraduate study at BUPT. I'm currently focusing on data science, deep learning and NLP. I'm also interested in full stack developing. This year I'm trying to gain more experience in Kaggle (please DM me if you want to team up). :raising_hand:
-
-This semester (Spring 2024) I'm doing style-controled generation as an independent study project, and efficient language models as a capstone project. :computer:
-
-I love music and I'm a 100% cat person. :cat2:
+I'm a master student in MCDS (computational data science) program at Carnegie Mellon University. I did my undergraduate study at BUPT. 
 
 ### Some tools I use :rocket:
 <p align="left">
