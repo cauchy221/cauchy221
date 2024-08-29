@@ -1,9 +1,9 @@
 # Hi there :wave:
 
 ### About me :blush:
-I'm a master student in MCDS (computational data science) program at Carnegie Mellon University. I did my undergraduate study at BUPT. 
+I'm a master student at Carnegie Mellon University (MCDS). I did my undergraduate study at BUPT. 
 
-### Some tools I use :rocket:
+<!-- ### Some tools I use :rocket:
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  alt="cplusplus" width="40" height="40"/>         
@@ -22,3 +22,4 @@ I'm a master student in MCDS (computational data science) program at Carnegie Me
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  alt="html" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="css" width="40" height="40"/>      
 </p>
+-->
