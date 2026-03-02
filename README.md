@@ -1,5 +1,4 @@
 # Hi there :wave:
-I'm a master student at Carnegie Mellon University (MCDS). I did my undergraduate study at BUPT. 
 
 <!-- ### Some tools I use :rocket:
 <p align="left">
